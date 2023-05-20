@@ -1,0 +1,12 @@
+﻿{
+  "browser": "Firefox",
+  "url": "https://demoqa.com/",
+  "chromemode": "--incognito",
+  "windowmode": "--start-maximized",
+  "browsersetlang": "intl.accept_languages",
+  "chromelang": "en",
+  "firefoxmode": "-private",
+  "firefoxwindow": "-start-maximized",
+  "firefoxsetlang": "en-US,en",
+  "waitstime": "10"
+}

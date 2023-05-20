@@ -1,0 +1,246 @@
+﻿2023-04-26 13:54:24.2939|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:54:24.2939|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:54:24.3411|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:54:24.6142|INFO|Task3._1.Utilities.Logg|Getting Alerts Page Header Page Visibility
+2023-04-26 13:54:24.6442|INFO|Task3._1.Utilities.Logg|Clicking Alerts menu button element
+2023-04-26 13:54:24.8735|INFO|Task3._1.Utilities.Logg|Getting Alerts Form Element Visibility
+2023-04-26 13:54:24.8846|INFO|Task3._1.Utilities.Logg|Clicking Alert Button element
+2023-04-26 13:54:25.0090|INFO|Task3._1.Utilities.Logg|Clicking Confirm Button element
+2023-04-26 13:54:25.0774|INFO|Task3._1.Utilities.Logg|Clicking Promt Button element
+2023-04-26 13:54:26.1336|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:54:26.1336|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:54:26.1598|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:54:26.4028|INFO|Task3._1.Utilities.Logg|Clicking Nested Frames menu button element
+2023-04-26 13:54:26.6315|INFO|Task3._1.Utilities.Logg|Getting Nested Frames Page Page Visibility
+2023-04-26 13:54:26.6657|INFO|Task3._1.Utilities.Logg|Getting Child Frame Element
+2023-04-26 13:54:26.6657|INFO|Task3._1.Utilities.Logg|Clicking Frames button element
+2023-04-26 13:54:26.9038|INFO|Task3._1.Utilities.Logg|Getting Frames Page Page Visibility
+2023-04-26 13:54:28.1533|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:54:28.1533|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:54:28.1769|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:54:28.4324|INFO|Task3._1.Utilities.Logg|Clicking Web Tables Form element
+2023-04-26 13:54:28.6704|INFO|Task3._1.Utilities.Logg|Getting Web Tables Page Page Visibility
+2023-04-26 13:54:28.6950|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-26 13:54:28.9398|INFO|Task3._1.Utilities.Logg|Getting Registration Form Label Element Visibility
+2023-04-26 13:54:29.1018|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-26 13:54:29.3362|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-26 13:54:29.7112|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-26 13:54:29.9565|INFO|Task3._1.Utilities.Logg|Getting Modal Content Element Visibility
+2023-04-26 13:54:40.1256|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-26 13:54:40.1502|INFO|Task3._1.Utilities.Logg|Clicking Delete Button element
+2023-04-26 13:54:40.3836|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-26 13:54:41.3606|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:54:41.3606|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:54:41.4033|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:54:41.6447|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-26 13:54:41.8724|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 13:54:41.8893|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-26 13:54:42.2191|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-26 13:54:42.2713|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 13:54:42.2910|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-26 13:55:40.4168|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:55:40.4168|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:55:40.4594|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:55:40.7269|INFO|Task3._1.Utilities.Logg|Getting Alerts Page Header Page Visibility
+2023-04-26 13:55:40.7550|INFO|Task3._1.Utilities.Logg|Clicking Alerts menu button element
+2023-04-26 13:55:40.9866|INFO|Task3._1.Utilities.Logg|Getting Alerts Form Element Visibility
+2023-04-26 13:55:40.9986|INFO|Task3._1.Utilities.Logg|Clicking Alert Button element
+2023-04-26 13:55:41.1227|INFO|Task3._1.Utilities.Logg|Clicking Confirm Button element
+2023-04-26 13:55:41.1880|INFO|Task3._1.Utilities.Logg|Clicking Promt Button element
+2023-04-26 13:55:42.5137|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:55:42.5137|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:55:42.5319|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:55:42.7693|INFO|Task3._1.Utilities.Logg|Clicking Nested Frames menu button element
+2023-04-26 13:55:42.9984|INFO|Task3._1.Utilities.Logg|Getting Nested Frames Page Page Visibility
+2023-04-26 13:55:43.0471|INFO|Task3._1.Utilities.Logg|Getting Child Frame Element
+2023-04-26 13:55:43.0611|INFO|Task3._1.Utilities.Logg|Clicking Frames button element
+2023-04-26 13:55:43.2947|INFO|Task3._1.Utilities.Logg|Getting Frames Page Page Visibility
+2023-04-26 13:55:44.7130|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:55:44.7130|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:55:44.7475|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:55:44.9893|INFO|Task3._1.Utilities.Logg|Clicking Web Tables Form element
+2023-04-26 13:55:45.2462|INFO|Task3._1.Utilities.Logg|Getting Web Tables Page Page Visibility
+2023-04-26 13:55:45.2667|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-26 13:55:45.5134|INFO|Task3._1.Utilities.Logg|Getting Registration Form Label Element Visibility
+2023-04-26 13:55:45.6476|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-26 13:55:45.8842|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-26 13:55:46.2299|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-26 13:55:46.4625|INFO|Task3._1.Utilities.Logg|Getting Modal Content Element Visibility
+2023-04-26 13:55:56.6236|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-26 13:55:56.6490|INFO|Task3._1.Utilities.Logg|Clicking Delete Button element
+2023-04-26 13:55:56.8818|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-26 13:55:58.0868|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 13:55:58.0868|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 13:55:58.1407|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 13:55:58.3796|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-26 13:55:58.6082|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 13:55:58.6236|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-26 13:55:58.9469|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-26 13:55:59.0247|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 13:55:59.0454|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-26 14:00:50.7441|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 14:00:50.7441|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 14:00:50.7875|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 14:00:51.0608|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-26 14:00:51.2972|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:00:51.3236|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-26 14:00:51.6593|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-26 14:00:51.7349|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:00:51.7574|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-26 14:01:45.8986|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 14:01:45.8986|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 14:01:45.9404|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 14:01:46.2154|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-26 14:01:46.4533|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:01:46.4712|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-26 14:01:46.7924|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-26 14:01:46.8656|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:01:46.8861|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-26 14:05:08.1255|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-26 14:05:08.1361|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 14:05:08.1730|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-26 14:05:08.4459|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-26 14:05:08.6878|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:05:08.7039|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-26 14:05:09.0323|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-26 14:05:09.0855|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:05:09.1079|INFO|Task3._1.Utilities.Logg|Clicking Elements Button element
+2023-04-26 14:05:09.3346|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-26 14:05:09.5675|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:05:09.5844|INFO|Task3._1.Utilities.Logg|Clicking Home Button element
+2023-04-26 14:05:09.7100|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-26 14:05:10.7867|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-26 14:05:10.8033|INFO|Task3._1.Utilities.Logg|Finished
+2023-04-28 11:36:26.1958|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:36:32.0611|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:36:42.3967|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:36:42.4489|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:36:42.7321|INFO|Task3._1.Utilities.Logg|Clicking Nested Frames menu button element
+2023-04-28 11:36:42.9579|INFO|Task3._1.Utilities.Logg|Getting Nested Frames Page Page Visibility
+2023-04-28 11:36:42.9971|INFO|Task3._1.Utilities.Logg|Getting Child Frame Element
+2023-04-28 11:36:42.9971|INFO|Task3._1.Utilities.Logg|Clicking Frames button element
+2023-04-28 11:36:43.2383|INFO|Task3._1.Utilities.Logg|Getting Frames Page Page Visibility
+2023-04-28 11:36:43.2921|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:36:44.4886|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:36:44.5069|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:36:44.7473|INFO|Task3._1.Utilities.Logg|Clicking Web Tables Form element
+2023-04-28 11:36:44.9860|INFO|Task3._1.Utilities.Logg|Getting Web Tables Page Page Visibility
+2023-04-28 11:36:45.0140|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-28 11:36:45.3053|INFO|Task3._1.Utilities.Logg|Getting Registration Form Label Element Visibility
+2023-04-28 11:36:45.4462|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-28 11:36:45.6807|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-28 11:36:46.0186|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-28 11:36:46.2573|INFO|Task3._1.Utilities.Logg|Getting Modal Content Element Visibility
+2023-04-28 11:36:56.4236|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-28 11:36:56.4481|INFO|Task3._1.Utilities.Logg|Clicking Delete Button element
+2023-04-28 11:36:56.6864|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-28 11:36:56.7070|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:36:57.7535|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:36:57.7716|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:36:58.0091|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-28 11:36:58.2400|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:36:58.2554|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-28 11:36:58.5810|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-28 11:36:58.6510|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:36:58.6769|INFO|Task3._1.Utilities.Logg|Clicking Elements Button element
+2023-04-28 11:36:58.9274|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-28 11:36:59.1660|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:36:59.1846|INFO|Task3._1.Utilities.Logg|Clicking Home Button element
+2023-04-28 11:36:59.3182|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:37:00.3804|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:37:00.3966|INFO|Task3._1.Utilities.Logg|Finished
+2023-04-28 11:37:00.3966|INFO|Task3._1.Utilities.Logg|Test Finished
+2023-04-28 11:44:01.0446|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:44:11.3743|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:44:11.4087|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:44:11.6791|INFO|Task3._1.Utilities.Logg|Getting Alerts Page Header Page Visibility
+2023-04-28 11:44:11.7085|INFO|Task3._1.Utilities.Logg|Clicking Alerts menu button element
+2023-04-28 11:44:11.9377|INFO|Task3._1.Utilities.Logg|Getting Alerts Form Element Visibility
+2023-04-28 11:44:11.9377|INFO|Task3._1.Utilities.Logg|Clicking Alert Button element
+2023-04-28 11:44:12.0761|INFO|Task3._1.Utilities.Logg|Clicking Confirm Button element
+2023-04-28 11:44:12.1452|INFO|Task3._1.Utilities.Logg|Clicking Promt Button element
+2023-04-28 11:44:12.2781|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:44:13.3476|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:44:13.3652|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:44:13.6001|INFO|Task3._1.Utilities.Logg|Clicking Nested Frames menu button element
+2023-04-28 11:44:13.8275|INFO|Task3._1.Utilities.Logg|Getting Nested Frames Page Page Visibility
+2023-04-28 11:44:13.8600|INFO|Task3._1.Utilities.Logg|Getting Child Frame Element
+2023-04-28 11:44:13.8841|INFO|Task3._1.Utilities.Logg|Clicking Frames button element
+2023-04-28 11:44:14.1226|INFO|Task3._1.Utilities.Logg|Getting Frames Page Page Visibility
+2023-04-28 11:44:14.1625|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:44:15.3648|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:44:15.3839|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:44:15.6214|INFO|Task3._1.Utilities.Logg|Clicking Web Tables Form element
+2023-04-28 11:44:15.8634|INFO|Task3._1.Utilities.Logg|Getting Web Tables Page Page Visibility
+2023-04-28 11:44:15.8788|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-28 11:44:16.1412|INFO|Task3._1.Utilities.Logg|Getting Registration Form Label Element Visibility
+2023-04-28 11:44:16.3150|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-28 11:44:16.5653|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-28 11:44:16.9510|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-28 11:44:17.1872|INFO|Task3._1.Utilities.Logg|Getting Modal Content Element Visibility
+2023-04-28 11:44:27.3906|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-28 11:44:27.4154|INFO|Task3._1.Utilities.Logg|Clicking Delete Button element
+2023-04-28 11:44:27.6498|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-28 11:44:27.6718|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:44:28.7318|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:44:28.7806|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:44:29.0234|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-28 11:44:29.2536|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:44:29.2768|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-28 11:44:29.6640|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-28 11:44:29.7251|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:44:29.7420|INFO|Task3._1.Utilities.Logg|Clicking Elements Button element
+2023-04-28 11:44:29.9671|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-28 11:44:30.1912|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:44:30.2089|INFO|Task3._1.Utilities.Logg|Clicking Home Button element
+2023-04-28 11:44:30.3372|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:44:31.3831|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:44:31.3989|INFO|Task3._1.Utilities.Logg|Finished
+2023-04-28 11:44:31.3989|INFO|Task3._1.Utilities.Logg|Test Finished
+2023-04-28 11:57:19.2449|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:57:29.6309|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:57:29.6638|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:57:29.9362|INFO|Task3._1.Utilities.Logg|Getting Alerts Page Header Page Visibility
+2023-04-28 11:57:29.9623|INFO|Task3._1.Utilities.Logg|Clicking Alerts menu button element
+2023-04-28 11:57:30.1929|INFO|Task3._1.Utilities.Logg|Getting Alerts Form Element Visibility
+2023-04-28 11:57:30.2072|INFO|Task3._1.Utilities.Logg|Clicking Alert Button element
+2023-04-28 11:57:30.3516|INFO|Task3._1.Utilities.Logg|Clicking Confirm Button element
+2023-04-28 11:57:30.4248|INFO|Task3._1.Utilities.Logg|Clicking Promt Button element
+2023-04-28 11:57:30.5325|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:57:31.5867|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:57:31.6067|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:57:31.8538|INFO|Task3._1.Utilities.Logg|Clicking Nested Frames menu button element
+2023-04-28 11:57:32.0787|INFO|Task3._1.Utilities.Logg|Getting Nested Frames Page Page Visibility
+2023-04-28 11:57:32.1160|INFO|Task3._1.Utilities.Logg|Getting Child Frame Element
+2023-04-28 11:57:32.1300|INFO|Task3._1.Utilities.Logg|Clicking Frames button element
+2023-04-28 11:57:32.3647|INFO|Task3._1.Utilities.Logg|Getting Frames Page Page Visibility
+2023-04-28 11:57:32.4032|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:57:33.4584|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:57:33.4767|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:57:33.7159|INFO|Task3._1.Utilities.Logg|Clicking Web Tables Form element
+2023-04-28 11:57:33.9544|INFO|Task3._1.Utilities.Logg|Getting Web Tables Page Page Visibility
+2023-04-28 11:57:33.9703|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-28 11:57:34.2187|INFO|Task3._1.Utilities.Logg|Getting Registration Form Label Element Visibility
+2023-04-28 11:57:34.3859|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-28 11:57:34.6305|INFO|Task3._1.Utilities.Logg|Clicking Add Button element
+2023-04-28 11:57:35.0083|INFO|Task3._1.Utilities.Logg|Clicking Submit Button element
+2023-04-28 11:57:35.2467|INFO|Task3._1.Utilities.Logg|Getting Modal Content Element Visibility
+2023-04-28 11:57:45.4337|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-28 11:57:45.4605|INFO|Task3._1.Utilities.Logg|Clicking Delete Button element
+2023-04-28 11:57:45.6954|INFO|Task3._1.Utilities.Logg|Getting Users Table Element
+2023-04-28 11:57:45.7169|INFO|Task3._1.Utilities.Logg|Starting Test
+2023-04-28 11:57:46.6556|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:57:46.6995|INFO|Task3._1.Utilities.Logg|Clicking Button: Alerts, Frame & Windows element
+2023-04-28 11:57:46.9394|INFO|Task3._1.Utilities.Logg|Clicking Browser Windows menu button element
+2023-04-28 11:57:47.1665|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:57:47.1815|INFO|Task3._1.Utilities.Logg|Clicking New Tab Button element
+2023-04-28 11:57:47.5137|INFO|Task3._1.Utilities.Logg|Getting Sample page Page Visibility
+2023-04-28 11:57:47.5697|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:57:47.5859|INFO|Task3._1.Utilities.Logg|Clicking Elements Button element
+2023-04-28 11:57:47.8141|INFO|Task3._1.Utilities.Logg|Clicking Links menu button element
+2023-04-28 11:57:48.0396|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:57:48.0579|INFO|Task3._1.Utilities.Logg|Clicking Home Button element
+2023-04-28 11:57:48.1891|INFO|Task3._1.Utilities.Logg|Getting Selenium Welcome Image Page Visibility
+2023-04-28 11:57:49.2443|INFO|Task3._1.Utilities.Logg|Getting Browser Form Header Page Visibility
+2023-04-28 11:57:49.2865|INFO|Task3._1.Utilities.Logg|Finished
+2023-04-28 11:57:49.2865|INFO|Task3._1.Utilities.Logg|Test Finished
